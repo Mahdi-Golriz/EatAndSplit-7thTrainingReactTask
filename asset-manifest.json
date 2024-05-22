@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EatAndSplit-7thTrainingReactTask/static/css/main.93801b1f.css",
+    "main.js": "/EatAndSplit-7thTrainingReactTask/static/js/main.655c5c7b.js",
+    "index.html": "/EatAndSplit-7thTrainingReactTask/index.html",
+    "main.93801b1f.css.map": "/EatAndSplit-7thTrainingReactTask/static/css/main.93801b1f.css.map",
+    "main.655c5c7b.js.map": "/EatAndSplit-7thTrainingReactTask/static/js/main.655c5c7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93801b1f.css",
+    "static/js/main.655c5c7b.js"
+  ]
+}
