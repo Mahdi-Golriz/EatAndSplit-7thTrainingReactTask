@@ -1,5 +1,5 @@
 # Project Title 
-Tip Calculator React application
+Eat and Split React application
 
 ## Table of contents
 * [About](#about)
